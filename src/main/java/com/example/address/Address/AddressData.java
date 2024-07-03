@@ -1,6 +1,5 @@
 package com.example.address.Address;
 
-import lombok.AllArgsConstructor;
 import lombok.NoArgsConstructor;
 
 import javax.persistence.*;
